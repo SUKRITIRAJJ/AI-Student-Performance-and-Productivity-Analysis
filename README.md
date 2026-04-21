@@ -68,8 +68,10 @@ Repository Structure
 
 bash
 
-├── AI_Impact_Student_Life_2026.csv   
-├── AI_Dashboard.pbix                
+├── AI_Impact_Student_Life_2026.csv 
+├── Dashboard Page-001
+├── Dashboard Page-002
+├── Impact_of_AI_on_Student_Performance_and_Productivity_2026.pbix              
 ├── Project_Documentation.pdf        
 └── README.md                        
 
