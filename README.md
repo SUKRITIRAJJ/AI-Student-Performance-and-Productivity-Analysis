@@ -1,12 +1,12 @@
-AI Impact on Student Performance & Productivity (2026)
+**AI Impact on Student Performance & Productivity (2026)**
 
-Project Overview
+**Project Overview**
 
 As Artificial Intelligence rapidly transforms the education landscape, students are increasingly adopting AI tools for academic tasks. However, understanding the **real impact of AI on student performance, productivity, and behavior** remains a challenge.
 
 This project is an end-to-end **Business Intelligence solution** that analyzes student-level data to evaluate the effects of AI adoption on GPA, time efficiency, usage patterns, and ethical concerns.
 
-The interactive Power BI dashboard is designed to answer key questions:
+**The interactive Power BI dashboard is designed to answer key questions:**
 
 * Does AI usage improve student GPA?
 * How does usage frequency affect academic performance?
@@ -14,7 +14,7 @@ The interactive Power BI dashboard is designed to answer key questions:
 * What are the most common use cases of AI among students?
 * What ethical concerns arise from AI adoption?
 
-Dashboard Structure
+**Dashboard Structure**
 
 The project features a two-page interactive Power BI dashboard:
 
@@ -37,7 +37,7 @@ Provides a high-level summary of AI impact
 Provides **deep analysis of student behavior and AI usage**
 
 
-Key Insights
+**Key Insights**
 
 * Students show measurable improvement in GPA after adopting AI tools
 * Higher AI usage frequency is associated with better academic performance
@@ -47,7 +47,7 @@ Key Insights
 * Ethical concerns regarding AI usage are present among a significant number of students
 
 
-Key Features
+**Key Features**
 
 * Two-page structured dashboard for clear data storytelling
 * Interactive slicers for dynamic filtering (Major, AI Tool, Ethics Concern)
@@ -56,7 +56,7 @@ Key Features
 * Clean and professional dashboard design
 
 
-Tech Stack
+**Tech Stack**
 
 * Power BI – Data visualization and dashboard development
 * DAX (Data Analysis Expressions) – Measures and KPIs
@@ -64,7 +64,7 @@ Tech Stack
 * CSV Dataset – Source data
 
 
-Repository Structure
+**Repository Structure**
 
 bash
 
@@ -81,7 +81,7 @@ bash
 └── README.md                        
 
 
-How to Use
+**How to Use**
 
 1. Download or clone the repository
 2. Open the .pbix file using Power BI Desktop
@@ -89,12 +89,12 @@ How to Use
 4. Use slicers to filter by Major, AI Tool, or Ethics Concern
 
 
-Conclusion
+**Conclusion**
 
 This project demonstrates that AI tools play a significant role in enhancing student productivity and academic performance. While AI provides measurable benefits such as improved GPA and time efficiency, ethical concerns must be addressed to ensure responsible usage.
 
 
-Author
+**Author**
 
 Name: Sukriti Raj
 
